@@ -28,6 +28,7 @@ Kurtosis aims at one level of abstraction higher. Developers can define their di
 
 If we succeed in our vision, you will be able to use the same distributed application definition from local dev all the way to prod.
 
+
 ---
 
 ## To start using Kurtosis
